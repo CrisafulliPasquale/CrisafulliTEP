@@ -1,0 +1,62 @@
+<righe>
+    <riga>
+        <comune>ALCAMO</comune>
+        <provincia>TRAPANI</provincia>
+        <regione>Sicilia</regione>
+        <categoria>1 Stella</categoria>
+        <tipologia>Affittacamere</tipologia>
+        <nome>Enny Camere 2</nome>
+        <indirizzo>Contrada San Gaetano 16</indirizzo>
+        <sigla_provincia>TP</sigla_provincia>
+        <telefono>0924501983</telefono>
+        <indirizzo_posta_elettronica>info@camereenny.com</indirizzo_posta_elettronica>
+        <codice>TRS-IT-SIC-01534</codice>
+        <longitudine>12.962828</longitudine>
+        <latitudine>37.987717</latitudine>
+    </riga>
+    <riga>
+        <comune>ALCAMO</comune>
+        <provincia>TRAPANI</provincia>
+        <regione>Sicilia</regione>
+        <categoria>1 Stella</categoria>
+        <tipologia>Affittacamere</tipologia>
+        <nome>Windsurf</nome>
+        <indirizzo>Contrada Calatubo 180</indirizzo>
+        <sigla_provincia>TP</sigla_provincia>
+        <telefono>0924597900</telefono>
+        <indirizzo_posta_elettronica>vacanze@affittacamerewindsurf.com</indirizzo_posta_elettronica>
+        <codice>TRS-IT-SIC-01559</codice>
+        <longitudine>12.962998</longitudine>
+        <latitudine>38.033828</latitudine>
+    </riga>
+    <riga>
+        <comune>ALCAMO</comune>
+        <provincia>TRAPANI</provincia>
+        <regione>Sicilia</regione>
+        <categoria>1 Stella</categoria>
+        <tipologia>Hotel</tipologia>
+        <nome>La Principessa</nome>
+        <indirizzo>Via Canapa 5</indirizzo>
+        <sigla_provincia>TP</sigla_provincia>
+        <telefono>0924507789</telefono>
+        <indirizzo_posta_elettronica>albergolaprincipessa@libero.it</indirizzo_posta_elettronica>
+        <codice>TRS-IT-SIC-05648</codice>
+        <longitudine>12.949835</longitudine>
+        <latitudine>37.975562</latitudine>
+    </riga>
+    <riga>
+        <comune>ALCAMO</comune>
+        <provincia>TRAPANI</provincia>
+        <regione>Sicilia</regione>
+        <categoria>1 Stella</categoria>
+        <tipologia>Ostelli</tipologia>
+        <nome>Ostello Cielo D'Alcamo</nome>
+        <indirizzo>Via Per Monte Bonifato 1</indirizzo>
+        <sigla_provincia>TP</sigla_provincia>
+        <telefono>0924202626</telefono>
+        <indirizzo_posta_elettronica>info@boscoalcamo.it</indirizzo_posta_elettronica>
+        <codice>TRS-IT-SIC-01468</codice>
+        <longitudine>12.961583</longitudine>
+        <latitudine>37.959687</latitudine>
+    </riga>
+</righe>
