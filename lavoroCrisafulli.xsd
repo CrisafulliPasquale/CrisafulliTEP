@@ -1,0 +1,27 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="righe">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="riga" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="comune" type="xs:string"/>
+                            <xs:element name="provincia" type="xs:string"/>
+                            <xs:element name="regione" type="xs:string"/>
+                            <xs:element name="categoria" type="xs:string"/>
+                            <xs:element name="tipologia" type="xs:string"/>
+                            <xs:element name="nome" type="xs:string"/>
+                            <xs:element name="indirizzo" type="xs:string"/>
+                            <xs:element name="sigla_provincia" type="xs:string"/>
+                            <xs:element name="telefono" type="xs:string"/>
+                            <xs:element name="indirizzo_posta_elettronica" type="xs:string"/>
+                            <xs:element name="codice" type="xs:string"/>
+                            <xs:element name="longitudine" type="xs:string"/>
+                            <xs:element name="latitudine" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
