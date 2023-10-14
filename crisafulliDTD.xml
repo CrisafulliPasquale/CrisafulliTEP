@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE righe [
     <!ELEMENT righe (riga+)>
     <!ELEMENT riga (comune, provincia, regione, categoria, tipologia, nome, indirizzo, sigla_provincia, telefono, indirizzo_posta_elettronica, codice, longitudine, latitudine)>
