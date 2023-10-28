@@ -17,15 +17,18 @@
             color: #fff;
             text-align: center;
             padding: 15px;
+            margin: 0;
           }
           table {
-            width: 100%;
+            width: 90%;
+            margin: 20px auto;
             border-collapse: collapse;
+            border: 2px solid #333;
+            box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
           }
           th, td {
-            padding: 10px;
+            padding: 15px;
             text-align: left;
-            border-bottom: 1px solid #ddd;
           }
           th {
             background-color: #333;
