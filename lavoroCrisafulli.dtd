@@ -1,6 +1,6 @@
 <!DOCTYPE righe [
     <!ELEMENT righe (riga+)>
-    <!ELEMENT riga (comune, provincia, regione, categoria, tipologia, nome, indirizzo, sigla_provincia, telefono, indirizzo_posta_elettronica, codice, longitudine, latitudine)>
+    <!ELEMENT riga (comune, provincia, regione, categoria, tipologia, nome, indirizzo, sigla_provincia, telefono, indirizzo_posta_elettronica, codice, longitudine, latitudine, classe)>
     <!ELEMENT comune (#PCDATA)>
     <!ELEMENT provincia (#PCDATA)>
     <!ELEMENT regione (#PCDATA)>
@@ -14,4 +14,6 @@
     <!ELEMENT codice (#PCDATA)>
     <!ELEMENT longitudine (#PCDATA)>
     <!ELEMENT latitudine (#PCDATA)>
+    <!ELEMENT classe (#PCDATA)>
+    <!ATTLIST classe sezione CDATA #REQUIRED>
 ]>

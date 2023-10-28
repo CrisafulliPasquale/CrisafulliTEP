@@ -15,6 +15,7 @@
         <codice>TRS-IT-SIC-01534</codice>
         <longitudine>12.962828</longitudine>
         <latitudine>37.987717</latitudine>
+        <classe sezione="5ia"></classe>
     </riga>
     <riga>
         <comune>ALCAMO</comune>
@@ -30,6 +31,7 @@
         <codice>TRS-IT-SIC-01559</codice>
         <longitudine>12.962998</longitudine>
         <latitudine>38.033828</latitudine>
+        <classe sezione="5ia"></classe>
     </riga>
     <riga>
         <comune>ALCAMO</comune>
@@ -45,6 +47,7 @@
         <codice>TRS-IT-SIC-05648</codice>
         <longitudine>12.949835</longitudine>
         <latitudine>37.975562</latitudine>
+        <classe sezione="5ia"></classe>
     </riga>
     <riga>
         <comune>ALCAMO</comune>
@@ -60,5 +63,6 @@
         <codice>TRS-IT-SIC-01468</codice>
         <longitudine>12.961583</longitudine>
         <latitudine>37.959687</latitudine>
+        <classe sezione="5ia"></classe>
     </riga>
 </righe>
