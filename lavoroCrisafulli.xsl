@@ -58,6 +58,7 @@
             <th>Indirizzo</th>
             <th>Telefono</th>
             <th>Email</th>
+            <th>Scuola</th>  
           </tr>
           <xsl:apply-templates select="righe/riga"/>
         </table>
@@ -72,6 +73,7 @@
       <td><xsl:value-of select="indirizzo"/></td>
       <td><xsl:value-of select="telefono"/></td>
       <td><a href="mailto:{indirizzo_posta_elettronica}"><xsl:value-of select="indirizzo_posta_elettronica"/></a></td>
+      <td><xsl:value-of select="scuole/classe"/>5IA</td>
     </tr>
   </xsl:template>
 
