@@ -5,10 +5,50 @@
     <html>
       <head>
         <title>Elenco Strutture Ricettive</title>
+        <style type="text/css">
+          body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+          }
+          h1 {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 15px;
+          }
+          table {
+            width: 100%;
+            border-collapse: collapse;
+          }
+          th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+          }
+          th {
+            background-color: #333;
+            color: #fff;
+          }
+          tr:nth-child(even) {
+            background-color: #f2f2f2;
+          }
+          tr:hover {
+            background-color: #ddd;
+          }
+          a {
+            color: #007BFF;
+            text-decoration: none;
+          }
+          a:hover {
+            text-decoration: underline;
+          }
+        </style>
       </head>
       <body>
         <h1>Elenco Strutture Ricettive</h1>
-        <table border="1">
+        <table>
           <tr>
             <th>Nome</th>
             <th>Tipologia</th>
